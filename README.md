@@ -82,7 +82,7 @@ The directory structure of your new project looks like this:
 │   └── visualization  <- Scripts to create exploratory and results oriented visualizations
 │       └── visualize.py
 │
-├── venv               <- Virtual environment in this project.
+├── venv               <- Virtual environment for use in this project.
 │
 └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
 ```
